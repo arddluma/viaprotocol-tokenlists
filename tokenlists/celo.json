@@ -1,4 +1,6 @@
-"tokens":[
+{
+  "name": "Aurora",
+  "tokens":[
     {
         "symbol": "USDC",
         "name": "Optics USDC v2",
@@ -931,4 +933,5 @@
             "ubeswap"
         ]
     }
-]
+  ]
+}
